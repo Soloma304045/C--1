@@ -1,0 +1,14 @@
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\obj\Release\net481\win-x64\Console.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\obj\Release\net481\win-x64\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\obj\Release\net481\win-x64\Console.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\obj\Release\net481\win-x64\Console.AssemblyInfo.cs
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\obj\Release\net481\win-x64\Console.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\obj\Release\net481\win-x64\Console.sourcelink.json
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\bin\Release\net481\win-x64\Console.exe.config
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\bin\Release\net481\win-x64\Console.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\bin\Release\net481\win-x64\Console.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\bin\Release\net481\win-x64\Library.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\bin\Release\net481\win-x64\Library.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\obj\Release\net481\win-x64\Console.csproj.Up2Date
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\obj\Release\net481\win-x64\Console.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\obj\Release\net481\win-x64\Console.pdb

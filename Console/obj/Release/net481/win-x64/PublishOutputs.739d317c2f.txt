@@ -1,0 +1,5 @@
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\bin\Release\net481\win-x64\publish\Console.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\bin\Release\net481\win-x64\publish\Console.exe.config
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\bin\Release\net481\win-x64\publish\Console.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\bin\Release\net481\win-x64\publish\Library.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\C#-1\Console\bin\Release\net481\win-x64\publish\Library.pdb

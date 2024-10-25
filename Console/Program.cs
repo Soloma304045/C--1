@@ -1,7 +1,6 @@
 #pragma warning disable CS8602 // Разыменование вероятной пустой ссылки.
 #pragma warning disable CS8604 // Возможно, аргумент-ссылка, допускающий значение NULL.
 using Library;
-
 /// <summary>
 /// Главный класс для работы с параллелограммом.
 /// </summary>t
@@ -12,7 +11,7 @@ class Program
     /// </summary>
     static void Main()
     {
-        string?[] input = new string?[8];
+        string[] input = new string[8];
         int count;
         int endIsNear = 0;
         int userChoice;

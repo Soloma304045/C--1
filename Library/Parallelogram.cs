@@ -3,28 +3,39 @@ namespace Library
     /// <summary>
     /// Представляет параллелограмм, определенный четырьмя вершинами и различными характеристиками, такими как площадь, периметр и длины сторон.
     /// </summary>
-    public class Parallelogram(Vertex a, Vertex b, Vertex c, Vertex d)
+    public class Parallelogram
     {
         /// <summary>
         /// Первая вершина параллелограмма.
         /// </summary>
-        public Vertex a = a;
-
+        public Vertex a;
         /// <summary>
         /// Вторая вершина параллелограмма.
         /// </summary>
-        public Vertex b = b;
-
+        public Vertex b;
         /// <summary>
         /// Третья вершина параллелограмма.
         /// </summary>
-        public Vertex c = c;
-
+        public Vertex c;
         /// <summary>
         /// Четвертая вершина параллелограмма.
         /// </summary>
-        public Vertex d = d;
-
+        public Vertex d;
+        /// <summary>
+        /// Конструктор класса Parallelogram
+        /// <param name="a">Первая вершина.</param>
+        /// <param name="b">Вторая вершина.</param>
+        /// <param name="c">Третья вершина.</param>
+        /// <param name="d">Четвертая вершина.</param>
+        /// </summary>
+        public Parallelogram(Vertex a, Vertex b, Vertex c, Vertex d)
+        {
+            this.a = a;
+            this.b = b;
+            this.c = c;
+            this.d = d;
+        }
+        
         /// <summary>
         /// Длина стороны AB.
         /// </summary>

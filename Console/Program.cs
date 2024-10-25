@@ -4,7 +4,7 @@ using Library;
 
 /// <summary>
 /// Главный класс для работы с параллелограммом.
-/// </summary>
+/// </summary>t
 class Program
 {
     /// <summary>

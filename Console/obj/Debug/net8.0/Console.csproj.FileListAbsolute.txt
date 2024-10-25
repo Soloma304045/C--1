@@ -1,0 +1,36 @@
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\Console.csproj.AssemblyReference.cache
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\Console.AssemblyInfo.cs
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\Иван\dotnet\Console\bin\Debug\net8.0\Console.exe
+C:\Users\Иван\dotnet\Console\bin\Debug\net8.0\Console.deps.json
+C:\Users\Иван\dotnet\Console\bin\Debug\net8.0\Console.runtimeconfig.json
+C:\Users\Иван\dotnet\Console\bin\Debug\net8.0\Console.dll
+C:\Users\Иван\dotnet\Console\bin\Debug\net8.0\Console.pdb
+C:\Users\Иван\dotnet\Console\bin\Debug\net8.0\Library.dll
+C:\Users\Иван\dotnet\Console\bin\Debug\net8.0\Library.pdb
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\Console.csproj.Up2Date
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\Console.dll
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\refint\Console.dll
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\Console.pdb
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
+C:\Users\Иван\dotnet\Console\obj\Debug\net8.0\ref\Console.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\bin\Debug\net8.0\Console.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\bin\Debug\net8.0\Console.deps.json
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\bin\Debug\net8.0\Console.runtimeconfig.json
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\bin\Debug\net8.0\Console.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\bin\Debug\net8.0\Console.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\bin\Debug\net8.0\Library.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\bin\Debug\net8.0\Library.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\Console.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\Console.AssemblyInfo.cs
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\Console.csproj.Up2Date
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\Console.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\refint\Console.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\Console.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\1\Console\obj\Debug\net8.0\ref\Console.dll

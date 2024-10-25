@@ -1,0 +1,7 @@
+C:\Users\Иван\dotnet\Console\bin\Release\net8.0\win-x64\publish\Console.exe
+C:\Users\Иван\dotnet\Console\bin\Release\net8.0\win-x64\publish\Console.dll
+C:\Users\Иван\dotnet\Console\bin\Release\net8.0\win-x64\publish\Console.deps.json
+C:\Users\Иван\dotnet\Console\bin\Release\net8.0\win-x64\publish\Console.runtimeconfig.json
+C:\Users\Иван\dotnet\Console\bin\Release\net8.0\win-x64\publish\Console.pdb
+C:\Users\Иван\dotnet\Console\bin\Release\net8.0\win-x64\publish\Library.dll
+C:\Users\Иван\dotnet\Console\bin\Release\net8.0\win-x64\publish\Library.pdb

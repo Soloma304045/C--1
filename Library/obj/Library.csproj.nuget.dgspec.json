@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\C#-1\\Library\\Library.csproj": {}
+    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-1\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\C#-1\\Library\\Library.csproj": {
+    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-1\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\C#-1\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-1\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\C#-1\\Library\\Library.csproj",
+        "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-1\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\C#-1\\Library\\obj\\",
+        "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-1\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,11 +43,6 @@
         "net481": {
           "targetAlias": "net481",
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }

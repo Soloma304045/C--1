@@ -40,63 +40,63 @@ class Program
                 switch (userChoice)
                 {
                     case 1:
+                    {
+                        Console.WriteLine("¬ведите координаты вершин параллелограма (x1, y1, x2, y2, x3, y3, x4, y4): ");
+                        for (count = 0; count < 8; count++)
                         {
-                            Console.WriteLine("¬ведите координаты вершин параллелограма (x1, y1, x2, y2, x3, y3, x4, y4): ");
-                            for (count = 0; count < 8; count++)
-                            {
-                                input[count] = Console.ReadLine() ?? "";
-                            }
-                            if (input != null)
-                            {
-                                aVert = new Vertex(int.Parse(input[0]), int.Parse(input[1]));
-                                bVert = new Vertex(int.Parse(input[2]), int.Parse(input[3]));
-                                cVert = new Vertex(int.Parse(input[4]), int.Parse(input[5]));
-                                dVert = new Vertex(int.Parse(input[6]), int.Parse(input[7]));
-                                parall = new Parallelogram(aVert, bVert, cVert, dVert);
-                            }
-                            else
-                            {
-                                Console.WriteLine("ќшибка: ¬ведено значение null.");
-                            }
-                            count = 0;
-                            break;
+                            input[count] = Console.ReadLine() ?? "";
                         }
+                        if (input != null)
+                        {
+                            aVert = new Vertex(int.Parse(input[0]), int.Parse(input[1]));
+                            bVert = new Vertex(int.Parse(input[2]), int.Parse(input[3]));
+                            cVert = new Vertex(int.Parse(input[4]), int.Parse(input[5]));
+                            dVert = new Vertex(int.Parse(input[6]), int.Parse(input[7]));
+                            parall = new Parallelogram(aVert, bVert, cVert, dVert);
+                        }
+                        else
+                        {
+                            Console.WriteLine("ќшибка: ¬ведено значение null.");
+                        }
+                        count = 0;
+                        break;
+                    }
                     case 2:
-                        {
-                            parall.FindSideLengths();
-                            parall.FindPerimeter();
-                            parall.FindArea();
-                            parall.Print();
-                            break;
-                        }
+                    {
+                        parall.FindSideLengths();
+                        parall.FindPerimeter();
+                        parall.FindArea();
+                        parall.Print();
+                        break;
+                    }
                     case 3:
+                    {
+                        Console.WriteLine("¬ведите координаты точки (x, y): ");
+                        for (count = 0; count < 2; count++)
                         {
-                            Console.WriteLine("¬ведите координаты точки (x, y): ");
-                            for (count = 0; count < 2; count++)
-                            {
-                                input[count] = Console.ReadLine() ?? "";
-                            }
-                            if (input != null)
-                            {
-                                parall.DotExam(int.Parse(input[0]), int.Parse(input[1]));
-                            }
-                            else
-                            {
-                                Console.WriteLine("ќшибка: ¬ведено значение null.");
-                            }
-                            count = 0;
-                            break;
+                            input[count] = Console.ReadLine() ?? "";
                         }
+                        if (input != null)
+                        {
+                            parall.DotExam(int.Parse(input[0]), int.Parse(input[1]));
+                        }
+                        else
+                        {
+                            Console.WriteLine("ќшибка: ¬ведено значение null.");
+                        }
+                        count = 0;
+                        break;
+                    }
                     case 4:
-                        {
-                            endIsNear = 1;
-                            break;
-                        }
+                    {
+                        endIsNear = 1;
+                        break;
+                    }
                     default:
-                        {
-                            Console.WriteLine("ќшибка: ¬ведено некорректное значение.");
-                            break;
-                        }
+                    {
+                        Console.WriteLine("ќшибка: ¬ведено некорректное значение.");
+                        break;
+                    }
                 }
             }
             else

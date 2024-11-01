@@ -13,7 +13,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.8.1/win-x64": {
+    ".NETFramework,Version=v4.8.1/win7-x86": {
       "Library/1.0.0": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.8.1",
@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\C#-1\\Console\\Console.csproj",
+      "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-1\\Console\\Console.csproj",
       "projectName": "Console",
-      "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\C#-1\\Console\\Console.csproj",
+      "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-1\\Console\\Console.csproj",
       "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\C#-1\\Console\\obj\\",
+      "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-1\\Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,8 +63,8 @@
         "net481": {
           "targetAlias": "net481",
           "projectReferences": {
-            "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\C#-1\\Library\\Library.csproj": {
-              "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\C#-1\\Library\\Library.csproj"
+            "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-1\\Library\\Library.csproj": {
+              "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-1\\Library\\Library.csproj"
             }
           }
         }
@@ -87,7 +87,7 @@
       }
     },
     "runtimes": {
-      "win-x64": {
+      "win7-x86": {
         "#import": []
       }
     }
